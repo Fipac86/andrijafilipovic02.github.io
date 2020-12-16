@@ -1,0 +1,171 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Architects Daughter', cursive;
+    background-color: #eeeeee;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 50px;
+    line-height: 1;
+}
+
+h1,h2,h3,.footer-link {
+    color: #28abb9;
+}
+
+hr {
+    color: #ccf6c8;
+    border-bottom: 5px dotted;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    width: 30%;
+    text-align: center;
+}
+
+.subtitle {
+    font-weight: normal;
+}
+
+.top-container {
+    background-color: #ccf6c8;
+    position: relative;
+    padding-top: 50px;
+
+}
+
+.andrija {
+    margin-top: 170px;
+    font-size: 500%;
+}
+
+.sun {
+    position: absolute;
+    left: 200px;
+    top: 30px;
+    width: 10%;
+}
+
+.cloud {
+    position: absolute;
+    right: 200px;
+    top: 30px;
+    width: 10%;
+}
+
+p {
+    font-size: 20px;
+}
+
+.slika {
+    padding-top: 60px;
+    padding-bottom: 10px;
+    width: 20%;
+    height: 20%;
+}
+
+.cr {
+    font-size: 15px;
+    text-align: center;
+    margin-top: 30px;
+    color: #16697a;
+}
+
+.myskill {
+    text-decoration: underline;
+}
+
+.getintouch {
+    text-decoration: underline;
+}
+
+.webdis {
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+.webd {
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+.hello {
+    text-decoration: underline;
+}
+
+.footer-link {
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.footer-link:hover {
+    color: white;
+    transition: 0.3s ease;
+}
+
+.btn {
+    border: 1px solid;
+    border-radius: 100px;
+    border-color: #ccf6c8;
+    background-color: #ccf6c8;
+    padding: 3px;
+    font-weight: bold;
+}
+
+.btn:hover {
+    color: #ccf6c8;
+    background-color: #28abb9;
+    border-color: #28abb9;
+    transition: 0.3s ease;
+}
+
+.btn {
+    color: #28abb9;
+    text-decoration: none;
+}
+
+.slika {
+    margin-top: 20px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 70px auto 70px auto;
+    line-height: 2;
+    text-align: left;
+}
+
+.skill-row1 {
+    width: 50%;
+    margin: 70px auto 70px auto;
+    line-height: 2;
+    text-align: right;
+}
+
+.webdev {
+    width: 30%;
+    height: 30%;
+    float: left;
+    margin-right: 30px;
+}
+
+.webdesign {
+    width: 30%;
+    height: 30%;
+    float: right;
+    margin-left: 30px;
+}
+
+.bottom-container {
+    margin-top: 20px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    background-color: #ccf6c8;
+}
+
